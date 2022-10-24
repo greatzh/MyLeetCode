@@ -11,7 +11,7 @@
 
 My solutions for LeetCode, and my freaking poor programming skill.
 
-| Date       | Problem                                                                                                                                                            | Solution | Difficulty | Label |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ---------- | ----- |
-| 2022-10-24 | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [cpp]()     | Hard       |       |
-|            |                                                                                                                                                                    |          |            |       |
+| Date       | Problem                                                                                                                                                            | Solution                                                                                                                               | Difficulty | Label |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----- |
+| 2022-10-24 | [1239. Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [cpp](https://github.com/greatzh/MyLeetCode/blob/main/Daily_challenge/maximum-length-of-a-concatenated-string-with-unique-characters.cpp) | Hard       | DP    |
+|            |                                                                                                                                                                    |                                                                                                                                        |            |       |
